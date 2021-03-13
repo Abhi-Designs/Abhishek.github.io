@@ -42,7 +42,7 @@ $(document).ready(function(){
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["Student", "Technical member at DSC-SIST", "Member at SAE India","Product Designer","Artificer"],
+        strings: ["Mechanical Designer", "Student at KARE", "Member at SAE India","Product Designer","Artificer"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
